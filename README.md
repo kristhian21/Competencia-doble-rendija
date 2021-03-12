@@ -67,17 +67,26 @@ _Representación: (4, -12)_
 
 _La matriz y el vector de estados inicial de la simulación cuántica resultan de la siguiente forma:_
 
-<img src="imagenes/mat_vec_3.png" width=500>
+<img src="imagenes/mat_vec_3.png" width=1000>
 
 _Tras hacer un click, es decir, moverse en una unidad de tiempo en el experimento, el resultado de la matriz y el vector resultante son los siguientes:_
 
-<img src="imagenes/mat_vec_4.png" width=500>
+<img src="imagenes/mat_vec_4.png" width=1000>
 
 _La grafica del vector de estados del experimento cuántico resulta:_
 
 _Para poder obtener la probabilidad de cada estado en el vector de estados del experimento cuántico hay que sacar el modulo al cuadrado de cada numero complejo del vector de estados_
 
 <img src="imagenes/grafica_2.png" width=400>
+
+# Requisitos para poder usar la libreria
+
+- Tener instalado Python, preferiblemente la versión 3.9
+
+# Autor
+
+_Kristhian David Segura_
+
 
 
 
