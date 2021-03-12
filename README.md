@@ -81,7 +81,7 @@ _Para poder obtener la probabilidad de cada estado en el vector de estados del e
 
 # Requisitos para poder usar la libreria
 
-- Tener instalado Python, preferiblemente la versión 3.9
+_Tener instalado Python, preferiblemente la versión 3.9 y descargar los dos archivos .py que se encuentran en este mismo repositorio_
 
 # Autor
 
