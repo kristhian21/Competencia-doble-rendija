@@ -42,11 +42,11 @@ _Muchas personas explican el patrón que se puede evidenciar en el experimento c
 
 _Este experimento se puede simular usando la librería que está adjunta en este mismo repositorio, el montaje del experimento de la doble rendija se puede visualizar como un grafo y como una matriz de adyacencia con un vector de estados asociado como se puede ver a continuación._
 
-# Simulación probabilistica
+# Simulación probabilística
 
 <img src="imagenes/grafo.jpg" width=200>
 
-_La matriz y el vector de estados inicial de la simulación probabilistica resultan de la siguiente forma:_
+_La matriz y el vector de estados inicial de la simulación probabilística resultan de la siguiente forma:_
 
 <img src="imagenes/mat_vec_1.png" width=300>
 
@@ -54,7 +54,7 @@ _Tras hacer un click, es decir, moverse en una unidad de tiempo en el experiment
 
 <img src="imagenes/mat_vec_2.png" width=300>
 
-_La grafica del vector de estados del experimento probabilistico resulta:_
+_La grafica del vector de estados del experimento probabilístico resulta:_
 
 <img src="imagenes/grafica_1.png" width=400>
 
