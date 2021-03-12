@@ -46,8 +46,38 @@ _Este experimento se puede simular usando la librería que está adjunta en este
 
 <img src="imagenes/grafo.jpg" width=200>
 
-_La matriz inicial de la simulación probabilistica resulta de la siguiente forma:_
+_La matriz y el vector de estados inicial de la simulación probabilistica resultan de la siguiente forma:_
 
+<img src="imagenes/mat_vec_1.png" width=300>
+
+_Tras hacer un click, es decir, moverse en una unidad de tiempo en el experimento, el resultado de la matriz y el vector resultante son los siguientes:_
+
+<img src="imagenes/mat_vec_2.png" width=300>
+
+_La grafica del vector de estados del experimento probabilistico resulta:_
+
+<img src="imagenes/grafica_1.png" width=400>
+
+# Simulación cuántica
+
+- Para tener en cuenta, la representación de un número complejo está dada por una tupla, en la cual el primer valor es la parte real del numero y la segunda parte es la parte imaginaria del número. ejemplo:
+
+_Complejo = 4-12i_
+_Representación: (4, -12)_
+
+_La matriz y el vector de estados inicial de la simulación cuántica resultan de la siguiente forma:_
+
+<img src="imagenes/mat_vec_3.png" width=500>
+
+_Tras hacer un click, es decir, moverse en una unidad de tiempo en el experimento, el resultado de la matriz y el vector resultante son los siguientes:_
+
+<img src="imagenes/mat_vec_4.png" width=500>
+
+_La grafica del vector de estados del experimento cuántico resulta:_
+
+_Para poder obtener la probabilidad de cada estado en el vector de estados del experimento cuántico hay que sacar el modulo al cuadrado de cada numero complejo del vector de estados_
+
+<img src="imagenes/grafica_2.png" width=400>
 
 
 
