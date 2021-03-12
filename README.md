@@ -20,4 +20,7 @@ _Materiales:_
 -	Cinta de enmascarar
 - Un soporte para poder sostener el infrarrojo
 
+# Fotos del montaje
+
+<img src="imagenes/img_1.jpg">
 
