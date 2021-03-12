@@ -22,5 +22,15 @@ _Materiales:_
 
 # Fotos del montaje
 
-<img src="imagenes/img_1.jpg">
+<img src="imagenes/img_1.jpeg" width=250>
+
+<img src="imagenes/img_2.jpeg" width=250>
+
+<img src="imagenes/img_3.jpeg" width=250>
+
+<img src="imagenes/img_4.jpeg" width=250>
+
+<img src="imagenes/img_5.jpeg" width=250>
+
+<img src="imagenes/img_6.jpeg" width=250>
 
