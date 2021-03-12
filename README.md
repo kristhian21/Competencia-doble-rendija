@@ -34,7 +34,7 @@ _Materiales:_
 
 <img src="imagenes/img_6.jpeg" width=250>
 
-# Explicacióm
+# Explicación
 
 _Muchas personas explican el patrón que se puede evidenciar en el experimento como un efecto causado por la interferencia entre las ondas que son generadas en el momento en el que la luz del infrarrojo pasa a través de las rendijas, sin embargo al momento de realizar el experimento lanzando electrones a la doble rendija en vez de los fotones que emite el infrarrojo, se vuelve a generar el mismo patrón, otra explicación a este fenómeno es la que plantea David Deutch en su libro “The fabric of reality”, en la cual el autor plantea que lo que normalmente consideramos como el universo (El todo de la realidad física) realmente solo es una pequeña porción del multiverso, sumado a esto, los diferentes experimentos de interferencia con partículas son la muestra de que existe un multiverso que contiene varias contra partes de cada partícula en nuestro universo tangible, en otras palabras, el multiverso está particionado en varios universos paralelos y el fenómeno de la interferencia se debe considerar como algo que envuelve a más de una partícula, ya que son las múltiples historias de una partícula las que están interactuando entre sí._
 
@@ -79,7 +79,7 @@ _Para poder obtener la probabilidad de cada estado en el vector de estados del e
 
 <img src="imagenes/grafica_2.png" width=400>
 
-# Requisitos para poder usar la libreria
+# Requisitos para poder usar la librería
 
 _Tener instalado Python, preferiblemente la versión 3.9 y descargar los dos archivos .py que se encuentran en este mismo repositorio_
 
